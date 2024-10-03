@@ -6,3 +6,6 @@
 
 ## Translation of the panel into your language
 <a href="https://crowdin.com/project/xtreamcodesdivarionmod" target="blank"><img align="center" src="https://d2gma3rgtloi6d.cloudfront.net/5d618ae4/images/crowdin-logo-app.svg" alt="Crowdin" width="120" /></a>
+
+## About the project
+I took the NeySlim 22F modification as a base, removed the goto and am now finalising the panel, as I have not found a decrypted panel that works and can be fixed freely. The panel is in an early stage of development. I am working on it in my spare time. This project can be classified as written for myself, I am a junior developer and do not know php well. At the moment some of the features may not work or may not work properly. I am not responsible for how the panel is used and for what purposes.
