@@ -1,8 +1,26 @@
-<a href="https://ko-fi.com/U6U1YYQO8" target="blank"><img align="center" src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy Me a Coffee at ko-fi.com" width="150" /></a>
-<!--<a href="https://trello.com/b/UKJ9Z3XN/xtream" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original-wordmark.svg" alt="Trelo" width="100" /></a>-->
+### ☕ Support the Project  
+If you like this project and want to support its development, consider buying me a coffee:  
+<a href="https://ko-fi.com/U6U1YYQO8" target="_blank"><img align="center" src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy Me a Coffee at ko-fi.com" width="150" /></a>  
 
-## Discussion group
-<a href="https://t.me/+Z6pJHzrvrMEyMDYy" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="TG_CHAT" width="40" /></a>
+---
 
-## About the project
-I took the NeySlim 22F modification as a base, removed the goto and am now finalising the panel, as I have not found a decrypted panel that works and can be fixed freely. The panel is in an early stage of development. I am working on it in my spare time. This project can be classified as written for myself, I am a junior developer and do not know php well. At the moment some of the features may not work or may not work properly. I am not responsible for how the panel is used and for what purposes.
+## 💬 Discussion Group  
+Join our Telegram discussion group for updates, questions, and collaboration:  
+<a href="https://t.me/+Z6pJHzrvrMEyMDYy" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="TG_CHAT" width="40" /></a>  
+
+---
+
+## 📌 About the Project  
+
+This project is based on **NeySlim 22F**, but with significant improvements. I have removed unnecessary `goto` statements and am actively refining the panel. My main goal is to provide a **working and freely modifiable** version, as I couldn't find a fully decrypted panel that was stable and fixable.  
+
+### ⚠️ **Development Status**  
+🚧 **This project is in early development.**  
+I work on it in my free time, and as a **junior developer**, I am still learning PHP. As a result:  
+- Some features **may not work** or function **incorrectly**.  
+- The codebase **is constantly evolving** and improving.  
+
+### ❗ Disclaimer  
+I am **not responsible** for how this panel is used or the purposes it serves. Please ensure compliance with the legal regulations in your country before using it.  
+
+Contributions, feedback, and suggestions are always welcome! 🚀
