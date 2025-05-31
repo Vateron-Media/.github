@@ -1,9 +1,3 @@
-### ☕ Support the Project  
-If you like this project and want to support its development, consider buying me a coffee:  
-<a href="https://ko-fi.com/U6U1YYQO8" target="_blank"><img align="center" src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy Me a Coffee at ko-fi.com" width="150" /></a>  
-
----
-
 ## 💬 Discussion Group  
 Join our Telegram discussion group for updates, questions, and collaboration:  
 <a href="https://t.me/+Z6pJHzrvrMEyMDYy" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="TG_CHAT" width="40" /></a>  
