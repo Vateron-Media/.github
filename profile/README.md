@@ -1,20 +1,114 @@
-## 💬 Discussion Group  
-Join our Telegram discussion group for updates, questions, and collaboration:  
-<a href="https://t.me/+Z6pJHzrvrMEyMDYy" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="TG_CHAT" width="40" /></a>  
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/149707645?s=200&v=4" alt="Vateron Media Logo" width="200" />
+</p>
+
+<p align="center">
+  <b>Fully decrypted, open-source XtreamCodes panel.</b><br>
+  <i>Brought to you by Vateron-Media</i>
+</p>
+<!--
+<p align="center">
+  <a href="https://github.com/Vateron-Media/XC_VM/stargazers"><img src="https://img.shields.io/github/stars/Vateron-Media/XC_VM?style=for-the-badge" /></a>
+  <a href="https://github.com/Vateron-Media/XC_VM/network"><img src="https://img.shields.io/github/forks/Vateron-Media/XC_VM?style=for-the-badge" /></a>
+  <a href="https://github.com/Vateron-Media/XC_VM/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Vateron-Media/XC_VM?style=for-the-badge" /></a>
+</p>
+-->
 
 ---
 
-## 📌 About the Project  
+## 💬 Join the Community
 
-This project is based on **NeySlim 22F**, but with significant improvements. I have removed unnecessary `goto` statements and am actively refining the panel. My main goal is to provide a **working and freely modifiable** version, as I couldn't find a fully decrypted panel that was stable and fixable.  
+Stay updated and get support in our Telegram group:  
+[![Join Telegram](https://img.icons8.com/?size=100&id=63306&format=png&color=000000)](https://t.me/+Z6pJHzrvrMEyMDYy)
 
-### ⚠️ **Development Status**  
-🚧 **This project is in early development.**  
-I work on it in my free time, and as a **junior developer**, I am still learning PHP. As a result:  
-- Some features **may not work** or function **incorrectly**.  
-- The codebase **is constantly evolving** and improving.  
+---
 
-### ❗ Disclaimer  
-I am **not responsible** for how this panel is used or the purposes it serves. Please ensure compliance with the legal regulations in your country before using it.  
+## 📌 About the Project
 
-Contributions, feedback, and suggestions are always welcome! 🚀
+**XC_VM** is a decrypted and modifiable version of the XtreamCodes panel — created for developers, hobbyists, and IPTV enthusiasts who need a transparent and self-hosted solution.
+
+Why we built it:
+- Existing solutions were obfuscated or unstable.
+- We believe in **freedom, transparency, and open learning**.
+- We wanted a solid base for further development — maintained by the community.
+
+---
+
+## 🚧 Development Status
+
+This project is still in **early development**.  
+Maintained in spare time by a **junior developer** learning PHP and system-level programming.
+
+**Expect:**
+- Bugs, incomplete features, and WIP logic
+- Frequent commits and code improvements
+- Willingness to receive feedback and grow together 🚀
+
+---
+
+## ⚙️ Technologies Used
+
+- PHP (backend logic)
+- Nginx (web server)
+- RTMP (media streaming)
+- XtreamCodes architecture (inspiration/foundation)
+- IPTV integration components
+
+---
+
+<!--
+## 🧪 Installation Guide (Coming Soon)
+
+A step-by-step installation manual is planned.
+
+```bash
+git clone https://github.com/Vateron-Media/XC_VM.git
+cd XC_VM
+# Setup instructions will be provided here
+````
+
+\-->
+
+<!--
+## 📝 TODO / Roadmap (Coming Soon)
+
+- [ ] Add setup script
+- [ ] Modularize panel components
+- [ ] Implement authentication layer
+- [ ] Dockerize the project
+-->
+
+---
+
+## 🛡️ Disclaimer
+
+This project is provided **for educational and developmental use only**.
+**You are responsible** for complying with your local laws and regulations.
+Vateron-Media and project contributors assume **no liability** for any misuse.
+
+---
+
+## 🤝 Contributions
+
+We welcome:
+
+* Pull requests 💻
+* Bug reports 🐛
+* Feature requests 💡
+* Suggestions & feedback ❤️
+
+---
+<!--
+## 📄 License
+
+This project is licensed under the **MIT License** — see [`LICENSE`](./LICENSE) for details.
+
+---
+-->
+
+## 👤 Author
+
+Maintained by [Vateron-Media](https://github.com/Vateron-Media)
+Built with ❤️ by a passionate learner.
+
+---
