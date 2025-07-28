@@ -32,6 +32,10 @@ Why we built it:
 - We believe in **freedom, transparency, and open learning**.
 - We wanted a solid base for further development — maintained by the community.
 
+
+🗂️ **Project Roadmap and Tasks**:  
+👉 [GitHub Project Board](https://github.com/orgs/Vateron-Media/projects/3)
+
 ---
 
 ## 🚧 Development Status
@@ -53,30 +57,6 @@ Maintained in spare time by a **junior developer** learning PHP and system-level
 - RTMP (media streaming)
 - XtreamCodes architecture (inspiration/foundation)
 - IPTV integration components
-
----
-
-<!--
-## 🧪 Installation Guide (Coming Soon)
-
-A step-by-step installation manual is planned.
-
-```bash
-git clone https://github.com/Vateron-Media/XC_VM.git
-cd XC_VM
-# Setup instructions will be provided here
-````
-
-\-->
-
-<!--
-## 📝 TODO / Roadmap (Coming Soon)
-
-- [ ] Add setup script
-- [ ] Modularize panel components
-- [ ] Implement authentication layer
-- [ ] Dockerize the project
--->
 
 ---
 
