@@ -19,7 +19,7 @@
 ## 💬 Join the Community
 
 Stay updated and get support in our Telegram group:  
-[![Join Telegram](https://img.icons8.com/?size=100&id=63306&format=png&color=000000)](https://t.me/+Z6pJHzrvrMEyMDYy)
+[![Join Telegram](https://img.icons8.com/?size=100&id=63306&format=png&color=000000)](https://t.me/Vateron_Media)
 
 ---
 
